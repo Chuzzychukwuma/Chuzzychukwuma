@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Johnpaul 👋
 
-<!--
-**Chuzzychukwuma/Chuzzychukwuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science graduate building a career in Cloud & DevOps engineering in the UK.
+Currently working through the [learntocloud.guide](https://learntocloud.guide) curriculum 
+and documenting everything publicly.
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
+- Linux & Bash scripting (Phase 1)
+- Cloud CLI & SSH
+- Infrastructure as Code foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+`Linux` `Bash` `AWS` `Terraform` `Python` `Git`
+
+## 📂 Projects
+| Project | Description | Stack |
+|---|---|---|
+| [Plant Health AI](https://github.com/Chuzzychukwuma/Plant_health_ai) | AI-powered plant disease detection | Python |
+| More coming soon... | | |
+
+## 📝 Writing
+I document my cloud journey on [Medium](https://medium.com/@johnpaulcchukwuma)
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/johnpaul-chukwuma-10557933a)
